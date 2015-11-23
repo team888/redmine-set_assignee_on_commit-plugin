@@ -1,0 +1,13 @@
+= Redmine set_assignee_on_commit plugin
+
+Set specified user as issue's assignee via repository commit with "fixing keywords".
+
+== Installation and Setup
+1. Copy extracted plugin folder to redmine plugin folder
+2. Rename copied plugin folder to "set_assignee_on_commit"
+3. Restart your Redmine web servers
+4. \[Administration] > [Plugins], click [Configure] on "Set assignee on commit plugin", specify user login name which set as assignee
+
+== Usage
+1. Commit repository with "fixing keywords", specified user will set as issue's assignee.
+

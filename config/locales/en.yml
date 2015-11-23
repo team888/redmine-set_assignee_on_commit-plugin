@@ -1,0 +1,6 @@
+# English strings go here for Rails i18n
+en:
+    view:
+        set_assignee_on_commit:
+            assignee_name: "Assignee's login name set via repository commit with fixing keywords"
+  # my_label: "My label"

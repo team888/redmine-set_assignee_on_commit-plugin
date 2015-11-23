@@ -1,0 +1,6 @@
+# Japanese strings go here for Rails i18n
+ja:
+    view:
+        set_assignee_on_commit:
+            assignee_name: "修正用キーワードによるレポジトリ コミット時に設定する担当者のログイン名"
+  # my_label: "My label"
