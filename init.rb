@@ -15,7 +15,7 @@ Redmine::Plugin.register :set_assignee_on_commit do
   author 'team888'
   description 'Set specified user as assignee via repository commit with fixing keywords.'
   version '0.1.0'
-  url 'https://github.com/team888/redmine-set_assignee_on_commit-plugin'
+  url 'http://www.redmine.org/plugins/set_assignee_on_commit'
   author_url 'https://github.com/team888'
   
   settings :default => {'empty' => true}, :partial => 'settings/set_assignee_on_commit_settings'
